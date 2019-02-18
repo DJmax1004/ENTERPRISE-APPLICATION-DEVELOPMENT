@@ -144,8 +144,8 @@ public class Zoologico {
 		super();
 	}
 
-	public Zoologico(String nome, int qtdAnimais, TipoZoo tipo, Date hrAbertura, Date hrFechamento, Date inauguracao,
-			boolean emergencia, byte[] logo) {
+	public Zoologico(String nome, int qtdAnimais, TipoZoo tipo, Date hrAbertura, Date hrFechamento, 
+			Date inauguracao, boolean emergencia, byte[] logo) {
 		super();
 		this.nome = nome;
 		this.qtdAnimais = qtdAnimais;
